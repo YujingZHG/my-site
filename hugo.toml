@@ -5,7 +5,7 @@ theme = 'hugo-coder'
 
 [params]
   author = "Yujing Zhang"
-  description = "My personal tech blog"
+  description = "Yujing Zhang"
   info = ["Data Engineer"]
   avatarURL = "images/avatar.jpg"
 
