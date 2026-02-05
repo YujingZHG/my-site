@@ -1,15 +1,27 @@
 baseURL = 'https://yujingzhg.github.io/my-site/'
 languageCode = 'en-us'
-title = 'My Site'
+title = 'My Tech Blog'
 theme = 'hugo-coder'
 
 [params]
   author = "Yujing Zhang"
-  description = "My personal Site"
+  description = "My personal tech blog"
   info = ["Data Engineer"]
+  avatarURL = "images/avatar.jpg"
 
 [[params.social]]
   name = "Github"
   icon = "fa-brands fa-github"
   weight = 1
   url = "https://github.com/yujingzhg/"
+
+[menu]
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url = "posts/"
+
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
