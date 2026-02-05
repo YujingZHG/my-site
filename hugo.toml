@@ -1,0 +1,15 @@
+baseURL = 'https://yujingzhg.github.io/my-site/'
+languageCode = 'en-us'
+title = 'My Site'
+theme = 'hugo-coder'
+
+[params]
+  author = "Yujing Zhang"
+  description = "My personal Site"
+  info = ["Data Engineer"]
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github"
+  weight = 1
+  url = "https://github.com/yujingzhg/"
