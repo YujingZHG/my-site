@@ -22,6 +22,11 @@ theme = 'hugo-coder'
   url = "posts/"
 
 [[menu.main]]
-  name = "About"
+  name = "Projects"
   weight = 2
+  url = "projects/"
+
+[[menu.main]]
+  name = "About"
+  weight = 3
   url = "about/"
