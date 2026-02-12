@@ -4,9 +4,8 @@ date: 2026-02-12
 draft: false
 ---
 
-## Projects
 
-### Data Solution and Development – Interactive Educational Hub for ANU College of Business & Economics (CBE)
+#### Data Solution and Development – Interactive Educational Hub for ANU College of Business & Economics (CBE)
 <!-- ![Project 1 Image](/images/project1.jpg) -->
 
 • Delivered platform customization with WordPress, including data-driven component adjustments
@@ -25,7 +24,7 @@ from a data perspective
 
 ---
 
-### Network Performance Testing Client
+#### Network Performance Testing Client
 <!-- ![Project 2 Image](/images/project2.jpg) -->
 
 • Developed a Python-based performance test client for analyzing MQTT server reliability across
