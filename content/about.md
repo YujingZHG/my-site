@@ -4,7 +4,6 @@ date: 2025-02-06
 draft: false
 ---
 
-## About Me
 
 Hi! I'm Yujing Zhang, a Data Engineer living in Sydney passionate about building scalable data pipelines and solving complex problems with technology.
 
