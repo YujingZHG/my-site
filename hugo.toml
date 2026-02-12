@@ -1,6 +1,6 @@
 baseURL = 'https://yujingzhg.github.io/my-site/'
 languageCode = 'en-us'
-title = 'My Tech Blog'
+title = 'Yujing'
 theme = 'hugo-coder'
 
 [params]
@@ -24,7 +24,7 @@ theme = 'hugo-coder'
 [[menu.main]]
   name = "Projects"
   weight = 2
-  url = "projects/"
+  url = "projects"
 
 [[menu.main]]
   name = "About"
