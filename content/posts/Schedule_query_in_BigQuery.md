@@ -1,5 +1,5 @@
 ---
-title: "Schedule query in BigQuery"
+title: "Schedule Query in BigQuery"
 date: 2026-03-02
 draft: false
 tags: ["Big Query", "Automation", "Apps Script","Data Engineering","JavaScript"]
