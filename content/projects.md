@@ -6,8 +6,6 @@ draft: false
 
 
 #### Data Solution and Development – Interactive Educational Hub for ANU College of Business & Economics (CBE)
-<!-- ![Project 1 Image](images/project1.png) -->
-{{ $image := resources.Get "images/project1.png" }}
 
 • Delivered platform customization with WordPress, including data-driven component adjustments
 via PHP and CSS
